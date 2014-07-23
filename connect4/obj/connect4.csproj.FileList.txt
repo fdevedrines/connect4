@@ -1,0 +1,39 @@
+.\bin\Release\connect4.exe
+.\bin\Release\connect4.pdb
+.\bin\Release\PresentationDesignDeveloper.DLL
+.\bin\Release\PresentationDesignFramework.dll
+.\bin\Release\PresentationDesignCore.dll
+.\bin\Release\Draft.PresentationDesignMarkup.dll
+obj\Release\ResolveAssemblyReference.cache
+E:\Users\frederid\Documents\Visual Studio 2005\Projects\connect4\connect4\obj\Release\Window1.baml
+E:\Users\frederid\Documents\Visual Studio 2005\Projects\connect4\connect4\obj\Release\Window1.g.cs
+E:\Users\frederid\Documents\Visual Studio 2005\Projects\connect4\connect4\obj\Release\App.g.cs
+E:\Users\frederid\Documents\Visual Studio 2005\Projects\connect4\connect4\obj\Release\connect4_MarkupCompile.cache
+obj\Release\connect4.g.resources
+obj\Release\connect4.Properties.Resources.resources
+obj\Release\connect4.csproj.GenerateResource.Cache
+obj\Release\connect4.exe
+obj\Release\connect4.pdb
+E:\Users\frederid\Documents\Visual Studio 2005\Projects\connect4\connect4\obj\Release\connect4_MarkupCompile.lref
+.\bin\Debug\connect4.exe
+.\bin\Debug\connect4.pdb
+.\bin\Debug\PresentationDesignDeveloper.DLL
+.\bin\Debug\PresentationDesignFramework.dll
+.\bin\Debug\PresentationDesignCore.dll
+.\bin\Debug\Draft.PresentationDesignMarkup.dll
+obj\Debug\ResolveAssemblyReference.cache
+E:\Users\frederid\Documents\Visual Studio 2005\Projects\connect4\connect4\obj\Debug\Window1.g.cs
+E:\Users\frederid\Documents\Visual Studio 2005\Projects\connect4\connect4\obj\Debug\App.g.cs
+E:\Users\frederid\Documents\Visual Studio 2005\Projects\connect4\connect4\obj\Debug\connect4_MarkupCompile.cache
+E:\Users\frederid\Documents\Visual Studio 2005\Projects\connect4\connect4\obj\Debug\connect4_MarkupCompile.lref
+E:\Users\frederid\Documents\Visual Studio 2005\Projects\connect4\connect4\obj\Debug\Window1.baml
+obj\Debug\connect4.g.resources
+obj\Debug\connect4.Properties.Resources.resources
+obj\Debug\connect4.csproj.GenerateResource.Cache
+obj\Debug\connect4.exe
+obj\Debug\connect4.pdb
+E:\Users\frederid\Documents\Visual Studio 2005\connect4\connect4\obj\Release\Window1.g.cs
+E:\Users\frederid\Documents\Visual Studio 2005\connect4\connect4\obj\Release\App.g.cs
+E:\Users\frederid\Documents\Visual Studio 2005\connect4\connect4\obj\Release\connect4_MarkupCompile.cache
+E:\Users\frederid\Documents\Visual Studio 2005\connect4\connect4\obj\Release\connect4_MarkupCompile.lref
+E:\Users\frederid\Documents\Visual Studio 2005\connect4\connect4\obj\Release\Window1.baml
